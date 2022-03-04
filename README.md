@@ -40,4 +40,4 @@ GRANT SFLIGHT_CONTAINER_ACCESS TO CUPS_SFLIGHT WITH ADMIN OPTION;
 We love contributions! Before submitting a Pull Request, it's always good to start with a new issue first.
 
 ## License
-This repository is licensed under Apache 2.0. Full license text is available in [LICENSE](https://github.com/necusjz/SQLScript-101/blob/master/LICENSE).
+This repository is licensed under MIT. Full license text is available in [LICENSE](https://github.com/necusjz/SQLScript-101/blob/master/LICENSE).
